@@ -1,0 +1,4 @@
+- 👋 Hi, My name Is Mohamed Magdy, I'm a Software Engineer From Cairo, Egypt. 
+- 👀 I’m interested in learning and making new software functions.
+- 🌱 I’m currently learning Game development and AI features.
+- 📫 How to reach me : sonik.gain25@gmail.com
